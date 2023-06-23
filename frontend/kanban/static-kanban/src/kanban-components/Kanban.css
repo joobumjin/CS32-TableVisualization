@@ -1,0 +1,7 @@
+.kanban-vis {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin: auto;
+    width: 60%;
+}

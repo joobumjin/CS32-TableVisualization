@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Table</title>
+		<link rel="stylesheet" href="table.css">
+	</head>
+
+	<body>
+		<h1>Sprint 3 Table Visualization</h1>
+		<br>
+
+		<!-- Use this button to upload database files -->
+		<div id="db-loader-div">
+			<div id="db-dropdown"></div>
+			<button id="db-loader">Connect Database</button>
+			<span id="connection-confirmation">Database not connected.</span>
+		</div>
+		<br>
+
+		<!-- Create a dropdown here to choose between tables -->
+		<div id="table-loader-div">
+			<div id="table-dropdown"></div>
+			<button id="table-loader">Load Table</button>
+			<button id="clear-table">Clear Table</button>
+		</div>
+		<br>
+		
+		<!-- Options for table modification -->
+		<div id="modification-div">
+			<label for="modification-selector">Modify Table: </label>
+		  <select name="modification-type" id="modification-selector">
+				<option></option>
+				<option value="INSERT">INSERT</option>
+				<option value="DELETE">DELETE</option>
+				<option value="UPDATE">UPDATE</option>
+			</select>
+			<button id="modification-btn">Apply Modification</button>
+		</div>
+
+		<!-- Display your table here -->
+		<div id="content"></div>
+
+		<button id="demo-btn">Click to Print Hello in the REPL!</button>
+	</body>
+
+	<script src = "./table.js"></script>
+</html>

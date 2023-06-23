@@ -1,0 +1,501 @@
+id,name,email,gender,class_year,ssn,nationality,race,years_experience,communication_style,weekly_avail_hours,meeting_style,meeting_time,software_engn_confidence
+1,Diana Frosch,dfrosch0@vk.com,Female,senior,783-11-5523,China,Asian,16,text,16,virtual,evening,86
+2,Aurelie Main,amain1@omniture.com,Female,senior,372-19-4999,Indonesia,Asian,17,email,4,in person,night,85
+3,Jaquelin Chazette,jchazette2@hubpages.com,Female,freshman,680-83-2023,Madagascar,White,10,slack,10,in person,afternoon,1
+4,Kenyon McQuin,kmcquin3@unicef.org,Male,senior,842-36-9932,Indonesia,Black or African American,4,email,16,hybrid,afternoon,86
+5,Egbert Riggey,eriggey4@wikispaces.com,Male,sophomore,497-09-5467,Laos,Asian,3,slack,20,in person,afternoon,6
+6,Derwin Elsy,delsy5@cornell.edu,Male,senior,322-28-0369,Norway,Black or African American,3,text,15,hybrid,evening,93
+7,Jarrid Corstorphine,jcorstorphine6@about.com,Female,sophomore,768-08-3175,South Africa,and Native Hawaiian or Other Pacific Islander,5,email,5,virtual,night,59
+8,Bonnie Badsey,bbadsey7@blogspot.com,Male,senior,593-83-0400,China,Asian,10,zoom,10,hybrid,morning,50
+9,Giulietta Brooking,gbrooking8@wordpress.org,Female,junior,548-35-2147,Peru,White,1,other,6,in person,morning,89
+10,Pennie Blue,pblue9@tripadvisor.com,Genderqueer,freshman,180-92-2259,Colombia,and Native Hawaiian or Other Pacific Islander,13,text,6,hybrid,afternoon,80
+11,Tarah Whooley,twhooleya@newyorker.com,Male,freshman,780-60-5545,Iraq,White,16,text,12,virtual,morning,75
+12,Derick Vlies,dvliesb@go.com,Male,sophomore,884-83-3335,Sweden,Asian,16,other,5,in person,morning,44
+13,Lark Faltskog,lfaltskogc@seesaa.net,Female,freshman,203-07-1106,Paraguay,and Native Hawaiian or Other Pacific Islander,13,zoom,16,in person,evening,90
+14,Wes Espinet,wespinetd@exblog.jp,Male,senior,844-66-0738,China,Black or African American,5,text,3,hybrid,afternoon,4
+15,Boy McKellen,bmckellene@cbslocal.com,Male,sophomore,827-03-5389,United States,White,7,other,8,virtual,morning,26
+16,Barbette Aizikov,baizikovf@eepurl.com,Male,freshman,852-56-9426,Philippines,and Native Hawaiian or Other Pacific Islander,9,slack,8,hybrid,afternoon,30
+17,Simon Clyma,sclymag@hugedomains.com,Female,junior,851-50-5581,Japan,Asian,7,email,16,hybrid,evening,59
+18,Tremaine Memmory,tmemmoryh@istockphoto.com,Male,sophomore,664-10-3653,Indonesia,White,14,email,13,in person,evening,5
+19,Gael McLukie,gmclukiei@ed.gov,Female,senior,750-08-8907,Indonesia,American Indian or Alaska Native,13,zoom,3,hybrid,morning,26
+20,Darrelle Yates,dyatesj@ucla.edu,Male,sophomore,498-19-4265,China,American Indian or Alaska Native,20,other,9,hybrid,night,44
+21,Dionis Woodier,dwoodierk@army.mil,Male,freshman,609-69-3558,Brazil,and Native Hawaiian or Other Pacific Islander,18,other,1,in person,night,8
+22,Drusie Izod,dizodl@redcross.org,Female,sophomore,499-62-8821,Philippines,Asian,19,zoom,19,hybrid,morning,63
+23,Thurstan Burdell,tburdellm@topsy.com,Male,senior,737-40-8539,Russia,American Indian or Alaska Native,15,slack,20,virtual,evening,83
+24,Karlik Warin,kwarinn@sohu.com,Male,sophomore,646-62-1656,France,Asian,10,zoom,17,virtual,morning,84
+25,Ramsey Leydon,rleydono@histats.com,Male,junior,229-79-3470,Brazil,and Native Hawaiian or Other Pacific Islander,1,zoom,18,in person,morning,24
+26,Philly Winkworth,pwinkworthp@cornell.edu,Female,sophomore,712-84-6258,France,Asian,1,slack,10,in person,night,21
+27,Elnora Pollock,epollockq@angelfire.com,Male,freshman,475-57-4106,Czech Republic,Asian,10,slack,1,in person,afternoon,2
+28,Laney Chisman,lchismanr@odnoklassniki.ru,Male,senior,625-85-4496,Indonesia,White,3,zoom,11,virtual,night,33
+29,Arabelle Tungay,atungays@sohu.com,Female,senior,528-15-1663,Iran,Asian,1,other,15,virtual,afternoon,76
+30,Lorena Shortell,lshortellt@163.com,Female,sophomore,424-61-0923,France,American Indian or Alaska Native,3,zoom,13,in person,afternoon,72
+31,Kerby Burley,kburleyu@photobucket.com,Bigender,junior,306-66-6910,Indonesia,and Native Hawaiian or Other Pacific Islander,4,other,13,in person,evening,97
+32,Lefty Mattersley,lmattersleyv@microsoft.com,Female,sophomore,511-45-1985,Russia,American Indian or Alaska Native,12,email,9,virtual,morning,90
+33,Penelopa Sultan,psultanw@php.net,Female,freshman,724-77-1792,China,and Native Hawaiian or Other Pacific Islander,13,other,18,hybrid,morning,49
+34,Anna-maria Bundock,abundockx@geocities.jp,Male,freshman,349-28-0965,Indonesia,Black or African American,15,other,11,hybrid,evening,74
+35,Jaclin Bathersby,jbathersbyy@fastcompany.com,Male,junior,874-29-6295,Czech Republic,and Native Hawaiian or Other Pacific Islander,11,zoom,7,hybrid,afternoon,41
+36,Rory Vian,rvianz@about.me,Male,senior,742-23-3269,Brazil,and Native Hawaiian or Other Pacific Islander,14,slack,12,virtual,morning,81
+37,Lorry Leamy,lleamy10@reddit.com,Male,freshman,191-43-5188,China,Asian,20,zoom,1,hybrid,afternoon,46
+38,Quent Gilberthorpe,qgilberthorpe11@mail.ru,Male,freshman,444-86-2633,Indonesia,White,10,email,15,hybrid,morning,81
+39,Vin Matthis,vmatthis12@marketwatch.com,Female,senior,842-84-8887,Honduras,Asian,2,text,10,virtual,morning,92
+40,Marylee Breed,mbreed13@nps.gov,Female,freshman,792-46-1015,Indonesia,and Native Hawaiian or Other Pacific Islander,2,email,2,in person,night,50
+41,Maren Juares,mjuares14@blogspot.com,Male,freshman,165-86-9754,Brazil,American Indian or Alaska Native,16,text,10,in person,afternoon,31
+42,Bernarr Castagnet,bcastagnet15@cam.ac.uk,Female,freshman,861-63-1594,Czech Republic,Black or African American,15,other,11,virtual,afternoon,16
+43,Yasmeen Sainter,ysainter16@java.com,Bigender,senior,683-29-1619,Russia,White,17,zoom,19,virtual,morning,10
+44,Gigi Van Saltsberg,gvan17@washingtonpost.com,Female,senior,430-55-0004,China,and Native Hawaiian or Other Pacific Islander,19,other,18,virtual,night,49
+45,Kristofer Tomaskov,ktomaskov18@webnode.com,Male,freshman,894-98-6384,Poland,American Indian or Alaska Native,14,zoom,4,in person,morning,47
+46,Dewey Ivons,divons19@hao123.com,Male,junior,495-52-6367,Japan,American Indian or Alaska Native,2,slack,19,hybrid,afternoon,13
+47,Delphinia Timeby,dtimeby1a@opensource.org,Male,freshman,778-11-9162,Poland,and Native Hawaiian or Other Pacific Islander,11,zoom,3,hybrid,afternoon,38
+48,Sylas Jirka,sjirka1b@mapy.cz,Male,senior,451-67-6727,Philippines,and Native Hawaiian or Other Pacific Islander,7,email,17,virtual,night,100
+49,Rebekah Rudledge,rrudledge1c@free.fr,Bigender,junior,597-20-0865,China,American Indian or Alaska Native,1,email,14,virtual,morning,38
+50,Imojean Cocksedge,icocksedge1d@comcast.net,Female,junior,553-70-3789,China,White,8,slack,3,in person,morning,32
+51,Cherice Wade,cwade1e@ed.gov,Male,senior,176-51-3170,Portugal,and Native Hawaiian or Other Pacific Islander,7,zoom,19,virtual,evening,95
+52,Amelie Origan,aorigan1f@w3.org,Male,sophomore,154-81-6313,China,Black or African American,14,text,9,in person,evening,45
+53,Stephannie Tilmouth,stilmouth1g@telegraph.co.uk,Genderqueer,sophomore,643-14-3303,Saudi Arabia,Black or African American,15,zoom,1,virtual,morning,31
+54,Reg Perell,rperell1h@sohu.com,Male,sophomore,658-60-9061,Philippines,Black or African American,5,text,3,in person,afternoon,31
+55,Caldwell Challiner,cchalliner1i@washingtonpost.com,Female,freshman,462-31-4582,South Africa,Asian,15,zoom,13,virtual,night,61
+56,Alard Petrolli,apetrolli1j@de.vu,Female,sophomore,639-57-2985,Philippines,White,14,zoom,8,in person,morning,33
+57,Abbey Buckby,abuckby1k@seesaa.net,Male,senior,869-36-5785,Aland Islands,White,15,slack,4,virtual,evening,89
+58,Tara Murrey,tmurrey1l@reddit.com,Female,freshman,387-41-2901,Venezuela,White,18,text,14,hybrid,afternoon,16
+59,Aylmer Manthroppe,amanthroppe1m@godaddy.com,Male,junior,774-55-7723,Indonesia,Black or African American,12,other,2,in person,morning,79
+60,Lurline Fausset,lfausset1n@tripadvisor.com,Male,junior,373-74-0227,Russia,Asian,1,slack,2,hybrid,afternoon,29
+61,Giacomo Blackeby,gblackeby1o@bloglovin.com,Non-binary,sophomore,641-35-6613,Czech Republic,White,7,slack,6,in person,evening,13
+62,Janeen Wenger,jwenger1p@zimbio.com,Male,junior,189-52-0379,United States,Asian,11,email,4,hybrid,night,42
+63,Jammal Leavry,jleavry1q@studiopress.com,Male,sophomore,641-99-5347,North Korea,American Indian or Alaska Native,8,email,19,hybrid,evening,24
+64,Ora Daouze,odaouze1r@bloglovin.com,Male,sophomore,403-76-1095,Namibia,White,2,email,10,hybrid,evening,84
+65,Joan O'Cridigan,jocridigan1s@dailymotion.com,Polygender,senior,519-10-3923,Indonesia,American Indian or Alaska Native,18,zoom,13,in person,night,53
+66,Jobie Ratchford,jratchford1t@pagesperso-orange.fr,Male,sophomore,344-26-3244,Nicaragua,Black or African American,4,zoom,9,in person,night,86
+67,Jennifer Maceur,jmaceur1u@mozilla.org,Female,sophomore,794-79-5600,China,Asian,14,email,9,virtual,night,12
+68,Mireille Rhodus,mrhodus1v@springer.com,Male,junior,778-92-4492,Brazil,and Native Hawaiian or Other Pacific Islander,19,text,17,virtual,night,43
+69,Currey Cousins,ccousins1w@earthlink.net,Female,senior,323-53-1643,China,and Native Hawaiian or Other Pacific Islander,13,other,9,virtual,evening,11
+70,Nancy Boriston,nboriston1x@cam.ac.uk,Female,junior,552-25-9761,Germany,American Indian or Alaska Native,15,slack,20,hybrid,evening,91
+71,Garvin Duckerin,gduckerin1y@wiley.com,Female,sophomore,622-38-7729,Czech Republic,Black or African American,14,slack,3,hybrid,night,3
+72,Raleigh Harsnep,rharsnep1z@vkontakte.ru,Female,sophomore,676-09-9471,China,and Native Hawaiian or Other Pacific Islander,8,email,13,hybrid,evening,80
+73,Allys Sofe,asofe20@hubpages.com,Male,sophomore,521-26-6000,China,and Native Hawaiian or Other Pacific Islander,16,zoom,9,hybrid,afternoon,49
+74,Alaric Lanphere,alanphere21@sourceforge.net,Male,sophomore,413-66-9243,Ireland,Black or African American,3,other,3,in person,night,87
+75,Felicle Blench,fblench22@sun.com,Polygender,freshman,503-09-9240,Philippines,White,4,slack,18,virtual,evening,23
+76,Ximenes Despenser,xdespenser23@intel.com,Male,freshman,455-79-6497,Indonesia,Asian,12,email,8,hybrid,night,82
+77,Judith Moreno,jmoreno24@discuz.net,Female,junior,537-64-3579,Sweden,White,17,slack,16,hybrid,evening,60
+78,Davina Remirez,dremirez25@sfgate.com,Female,freshman,798-04-1463,Thailand,Black or African American,18,other,16,hybrid,evening,67
+79,Twyla Ovize,tovize26@mit.edu,Male,freshman,700-67-4394,Indonesia,American Indian or Alaska Native,20,text,8,hybrid,night,89
+80,Lynett Romanet,lromanet27@tmall.com,Male,freshman,277-57-7890,Iraq,and Native Hawaiian or Other Pacific Islander,7,other,11,in person,afternoon,65
+81,Linda MacFarland,lmacfarland28@a8.net,Male,senior,242-02-1263,United States,White,6,text,8,hybrid,morning,35
+82,Durante Stuchbery,dstuchbery29@harvard.edu,Female,freshman,533-18-5175,China,Black or African American,18,email,2,hybrid,afternoon,2
+83,Orbadiah Swyne,oswyne2a@netlog.com,Genderfluid,sophomore,338-58-6352,Thailand,Black or African American,2,other,9,in person,afternoon,29
+84,Gianna Bewley,gbewley2b@icio.us,Female,senior,898-45-3020,China,and Native Hawaiian or Other Pacific Islander,2,text,20,hybrid,afternoon,45
+85,Etty Posselt,eposselt2c@omniture.com,Male,senior,190-53-8870,Philippines,American Indian or Alaska Native,6,slack,18,in person,morning,33
+86,Mahalia Mace,mmace2d@comcast.net,Male,senior,519-04-5033,Indonesia,Black or African American,3,zoom,17,hybrid,evening,2
+87,Bale Barribal,bbarribal2e@deviantart.com,Male,freshman,328-87-1151,Ethiopia,White,1,slack,18,virtual,evening,23
+88,Laetitia Chesnut,lchesnut2f@marketwatch.com,Male,freshman,816-44-7727,Ukraine,Asian,1,zoom,15,hybrid,afternoon,24
+89,Teddy Manach,tmanach2g@disqus.com,Male,senior,668-32-9578,Brazil,and Native Hawaiian or Other Pacific Islander,7,email,11,hybrid,evening,16
+90,Beryl Whilder,bwhilder2h@princeton.edu,Female,senior,566-58-3663,China,Asian,19,text,16,hybrid,morning,43
+91,Kimberli Rosendale,krosendale2i@hhs.gov,Genderfluid,freshman,357-74-7729,Indonesia,Black or African American,1,other,10,in person,night,45
+92,Marlow Whylie,mwhylie2j@wordpress.com,Female,senior,704-68-5903,Peru,Asian,19,slack,16,hybrid,morning,78
+93,Sheena Leonard,sleonard2k@t-online.de,Female,sophomore,785-44-3764,Uruguay,and Native Hawaiian or Other Pacific Islander,13,other,13,hybrid,evening,86
+94,Arte Tregaskis,atregaskis2l@sfgate.com,Female,junior,371-95-1109,Vietnam,Asian,3,other,5,virtual,afternoon,37
+95,Ellary Tremayle,etremayle2m@wisc.edu,Male,freshman,889-54-1623,China,White,11,other,9,in person,evening,71
+96,Trenna Marrion,tmarrion2n@blinklist.com,Male,freshman,689-50-3145,Croatia,White,11,text,3,virtual,afternoon,88
+97,Harwilll Blaxter,hblaxter2o@usa.gov,Male,sophomore,462-44-3834,Philippines,American Indian or Alaska Native,13,text,3,virtual,afternoon,64
+98,Jilli Carlet,jcarlet2p@cdbaby.com,Non-binary,freshman,874-64-1448,Pakistan,Asian,6,zoom,10,virtual,morning,76
+99,Serge Showering,sshowering2q@hubpages.com,Male,sophomore,743-41-1668,Portugal,Black or African American,10,email,15,virtual,afternoon,57
+100,Cordell Abramof,cabramof2r@flickr.com,Male,senior,376-29-5761,Greece,American Indian or Alaska Native,12,zoom,12,in person,evening,12
+101,Jessy Skillman,jskillman2s@addthis.com,Female,freshman,269-14-6178,China,and Native Hawaiian or Other Pacific Islander,3,zoom,3,virtual,night,64
+102,Gran Chell,gchell2t@canalblog.com,Male,junior,177-93-0045,Sweden,American Indian or Alaska Native,16,email,17,hybrid,afternoon,77
+103,Ariela Healks,ahealks2u@twitter.com,Polygender,junior,742-12-8407,Japan,American Indian or Alaska Native,9,text,19,hybrid,evening,5
+104,Harrison Smail,hsmail2v@pcworld.com,Female,sophomore,268-57-3486,China,Asian,9,other,17,virtual,morning,70
+105,Gaston Hampson,ghampson2w@state.tx.us,Male,senior,349-96-4019,China,White,6,slack,17,virtual,night,30
+106,Ulick Brent,ubrent2x@nsw.gov.au,Female,senior,583-73-2709,China,and Native Hawaiian or Other Pacific Islander,3,email,3,hybrid,afternoon,76
+107,Karylin Kix,kkix2y@bbc.co.uk,Male,freshman,888-12-8678,Philippines,Asian,9,text,10,in person,evening,16
+108,Kynthia Shopcott,kshopcott2z@plala.or.jp,Female,junior,823-45-8038,China,Black or African American,15,slack,9,in person,night,70
+109,Petronilla Wyrall,pwyrall30@answers.com,Male,sophomore,744-58-2986,Philippines,American Indian or Alaska Native,6,slack,7,in person,evening,5
+110,Gran Welbelove,gwelbelove31@hao123.com,Male,senior,227-35-4197,China,American Indian or Alaska Native,11,email,6,hybrid,night,42
+111,Celinka Hollibone,chollibone32@columbia.edu,Male,freshman,371-84-4112,China,and Native Hawaiian or Other Pacific Islander,15,zoom,14,in person,night,5
+112,Almeria Twigger,atwigger33@twitter.com,Male,senior,147-66-5678,China,Asian,4,email,4,hybrid,afternoon,9
+113,Melva Moule,mmoule34@youtu.be,Genderqueer,junior,822-85-8774,China,and Native Hawaiian or Other Pacific Islander,5,other,8,hybrid,night,85
+114,Kellen Ludwig,kludwig35@amazon.co.uk,Bigender,senior,575-88-7509,French Polynesia,and Native Hawaiian or Other Pacific Islander,5,zoom,13,hybrid,afternoon,34
+115,Jerry Yallop,jyallop36@imgur.com,Female,sophomore,351-25-3484,Poland,American Indian or Alaska Native,17,email,19,in person,night,37
+116,Bellanca Russen,brussen37@independent.co.uk,Male,junior,334-88-3244,Armenia,Black or African American,11,text,7,virtual,evening,67
+117,Raye Roache,rroache38@prweb.com,Female,senior,458-74-4748,Germany,and Native Hawaiian or Other Pacific Islander,16,slack,5,virtual,night,4
+118,Taffy Simkovich,tsimkovich39@fc2.com,Male,sophomore,298-79-1063,Ecuador,American Indian or Alaska Native,11,text,11,in person,night,44
+119,Natala Wickenden,nwickenden3a@webmd.com,Female,senior,629-22-8213,China,American Indian or Alaska Native,19,email,11,virtual,afternoon,76
+120,Bail Rowlstone,browlstone3b@ycombinator.com,Female,senior,419-04-2276,Mongolia,White,20,email,10,virtual,morning,74
+121,Bartholemy Kirman,bkirman3c@opera.com,Female,freshman,454-77-5285,Guatemala,White,13,other,19,hybrid,morning,67
+122,Nichol Shakesby,nshakesby3d@ucsd.edu,Male,freshman,188-17-0578,Poland,White,5,zoom,15,in person,morning,25
+123,Gunther Spinke,gspinke3e@fotki.com,Male,senior,668-71-2379,Czech Republic,American Indian or Alaska Native,3,zoom,14,hybrid,night,18
+124,Annmaria Catonnet,acatonnet3f@cargocollective.com,Bigender,junior,531-04-7241,Indonesia,Black or African American,2,slack,5,in person,afternoon,23
+125,Agnola O'Dempsey,aodempsey3g@bizjournals.com,Female,freshman,342-52-2524,Netherlands,American Indian or Alaska Native,18,email,5,virtual,night,2
+126,Edgardo Goldthorpe,egoldthorpe3h@boston.com,Female,junior,316-70-2648,Mongolia,Asian,4,email,15,hybrid,night,37
+127,Faye Hannigane,fhannigane3i@homestead.com,Female,junior,492-95-0303,Albania,Black or African American,7,slack,17,virtual,afternoon,80
+128,Vergil Fazzioli,vfazzioli3j@stanford.edu,Male,sophomore,496-72-2973,China,Black or African American,14,email,17,virtual,night,24
+129,Bekki Grossman,bgrossman3k@nature.com,Male,freshman,363-44-2675,Philippines,White,13,slack,13,in person,evening,45
+130,Carlene Eastop,ceastop3l@dagondesign.com,Agender,sophomore,827-45-9634,Morocco,and Native Hawaiian or Other Pacific Islander,2,email,17,virtual,night,49
+131,Garwood Kristiansen,gkristiansen3m@vkontakte.ru,Male,senior,842-29-3830,Indonesia,White,4,zoom,9,virtual,evening,31
+132,Malinde Wesson,mwesson3n@slashdot.org,Female,sophomore,883-28-0646,Czech Republic,American Indian or Alaska Native,19,slack,13,virtual,evening,88
+133,Elissa Wallas,ewallas3o@prnewswire.com,Male,senior,614-88-6820,South Africa,Black or African American,16,text,18,in person,afternoon,51
+134,Hetty Bony,hbony3p@pcworld.com,Female,senior,127-23-8955,Sweden,Black or African American,17,other,7,virtual,evening,49
+135,Anson Kopisch,akopisch3q@tmall.com,Female,sophomore,106-85-1355,Philippines,Asian,1,other,13,in person,morning,54
+136,Winn Veltmann,wveltmann3r@histats.com,Male,freshman,753-93-4671,China,White,12,zoom,4,virtual,afternoon,87
+137,Cammy Baudinelli,cbaudinelli3s@livejournal.com,Female,sophomore,650-91-4676,China,American Indian or Alaska Native,15,email,14,in person,afternoon,51
+138,Allsun Gannaway,agannaway3t@engadget.com,Female,sophomore,368-11-2268,Poland,and Native Hawaiian or Other Pacific Islander,9,slack,16,virtual,night,46
+139,Lawrence McCray,lmccray3u@sourceforge.net,Female,sophomore,720-55-5521,Sweden,Black or African American,4,email,7,in person,evening,1
+140,Nerty Cordle,ncordle3v@illinois.edu,Female,freshman,857-42-3180,Indonesia,White,6,zoom,1,in person,night,48
+141,Mack Heath,mheath3w@indiatimes.com,Female,senior,277-29-5992,Cape Verde,Asian,4,zoom,10,in person,evening,58
+142,Carmelina Penquet,cpenquet3x@constantcontact.com,Female,sophomore,233-88-9360,Brazil,Black or African American,13,slack,15,in person,evening,35
+143,Dex Pallant,dpallant3y@flickr.com,Male,junior,837-99-5475,Japan,Black or African American,8,zoom,14,virtual,evening,68
+144,Aileen Fonteyne,afonteyne3z@lulu.com,Male,senior,695-77-0735,Peru,White,16,other,16,virtual,morning,34
+145,Seymour Bowra,sbowra40@examiner.com,Female,senior,352-40-7821,Indonesia,and Native Hawaiian or Other Pacific Islander,9,text,6,hybrid,night,48
+146,Barbaraanne Dilston,bdilston41@pen.io,Female,freshman,552-21-2489,Greece,Black or African American,6,email,8,in person,evening,49
+147,Minta Miko,mmiko42@nymag.com,Female,freshman,149-20-4243,Greece,American Indian or Alaska Native,16,text,19,in person,afternoon,44
+148,Phoebe Whybrow,pwhybrow43@livejournal.com,Male,junior,754-47-2561,United States,White,7,other,12,hybrid,morning,55
+149,Joelynn Coweuppe,jcoweuppe44@tamu.edu,Female,senior,117-37-0885,Indonesia,and Native Hawaiian or Other Pacific Islander,13,slack,6,in person,night,3
+150,Ambrosius Dymott,adymott45@arstechnica.com,Bigender,sophomore,329-83-8204,Indonesia,and Native Hawaiian or Other Pacific Islander,6,email,10,hybrid,morning,84
+151,Mignonne Stroulger,mstroulger46@arizona.edu,Female,senior,222-66-6034,Canada,American Indian or Alaska Native,2,email,10,hybrid,afternoon,5
+152,Paxton Spleving,pspleving47@usda.gov,Female,junior,358-56-5049,China,Asian,7,other,11,virtual,night,5
+153,Muhammad Ginsie,mginsie48@sourceforge.net,Male,freshman,186-73-5185,Argentina,Black or African American,6,slack,9,in person,afternoon,86
+154,Ashleigh Maskew,amaskew49@fotki.com,Male,junior,634-03-6769,Malaysia,American Indian or Alaska Native,16,other,15,hybrid,afternoon,7
+155,Gillian Cornell,gcornell4a@bbb.org,Female,junior,138-69-7406,Ethiopia,Black or African American,13,zoom,18,in person,afternoon,77
+156,Judy Walhedd,jwalhedd4b@buzzfeed.com,Female,senior,834-71-8629,Argentina,and Native Hawaiian or Other Pacific Islander,4,other,4,virtual,morning,57
+157,Freddie Bourges,fbourges4c@google.com,Polygender,junior,349-89-1453,Brazil,American Indian or Alaska Native,13,slack,10,virtual,evening,57
+158,Laverna Meier,lmeier4d@woothemes.com,Female,freshman,462-90-6596,China,White,10,zoom,20,virtual,night,85
+159,Tallie Grishukhin,tgrishukhin4e@craigslist.org,Female,freshman,807-15-8845,Cuba,Asian,5,text,19,hybrid,evening,97
+160,Aldis Mallender,amallender4f@etsy.com,Male,senior,467-64-9363,Israel,White,17,email,2,hybrid,night,49
+161,Kelcie Grimley,kgrimley4g@noaa.gov,Female,freshman,234-63-9102,Ireland,Black or African American,8,other,16,virtual,afternoon,49
+162,Krisha Eliasen,keliasen4h@washington.edu,Female,junior,465-57-3270,Albania,and Native Hawaiian or Other Pacific Islander,1,slack,2,in person,morning,83
+163,Raina Vedyashkin,rvedyashkin4i@wix.com,Female,junior,773-10-2618,Russia,and Native Hawaiian or Other Pacific Islander,1,other,6,virtual,afternoon,57
+164,Bartel de Mullett,bde4j@go.com,Female,senior,306-56-8811,Thailand,American Indian or Alaska Native,18,other,6,in person,morning,100
+165,Waite O'Hearn,wohearn4k@hao123.com,Female,freshman,609-98-1967,Indonesia,White,14,text,1,virtual,night,92
+166,Auroora Roobottom,aroobottom4l@friendfeed.com,Bigender,junior,519-13-6531,China,White,16,email,5,virtual,afternoon,6
+167,Richy Kleinfeld,rkleinfeld4m@taobao.com,Non-binary,freshman,826-30-7389,France,American Indian or Alaska Native,1,text,8,hybrid,night,96
+168,Richardo Soule,rsoule4n@ed.gov,Female,junior,867-20-9675,Thailand,Asian,13,zoom,2,hybrid,evening,2
+169,Addia Westman,awestman4o@fda.gov,Male,sophomore,729-61-4147,Sweden,Black or African American,3,email,18,hybrid,evening,2
+170,Guilbert Wrigley,gwrigley4p@canalblog.com,Female,sophomore,675-76-6593,Poland,and Native Hawaiian or Other Pacific Islander,12,other,15,in person,evening,25
+171,Arlin Fulep,afulep4q@tumblr.com,Male,sophomore,155-77-9675,Cuba,Asian,18,other,4,in person,morning,77
+172,Bernette Drinkall,bdrinkall4r@livejournal.com,Female,senior,315-84-6745,Angola,White,14,text,3,virtual,morning,54
+173,Carmencita Grimwade,cgrimwade4s@gizmodo.com,Male,sophomore,328-29-5707,China,Asian,10,text,13,in person,afternoon,30
+174,Hardy Vale,hvale4t@t-online.de,Male,sophomore,823-75-9528,Poland,Black or African American,20,other,11,in person,night,64
+175,Waylan Meech,wmeech4u@goo.gl,Male,sophomore,674-97-9308,Japan,Asian,14,text,8,virtual,night,27
+176,Janela Dutnell,jdutnell4v@techcrunch.com,Female,senior,637-11-4415,Norway,American Indian or Alaska Native,9,email,17,in person,afternoon,81
+177,Raffarty Mayers,rmayers4w@npr.org,Agender,junior,155-22-1152,Nigeria,and Native Hawaiian or Other Pacific Islander,16,other,1,in person,night,20
+178,Philis Apthorpe,papthorpe4x@google.ca,Male,freshman,895-98-6029,Vietnam,Black or African American,7,text,20,hybrid,night,4
+179,Nelle Layne,nlayne4y@bandcamp.com,Female,sophomore,711-84-1692,Iran,Black or African American,4,other,15,hybrid,evening,56
+180,Jere Coghill,jcoghill4z@merriam-webster.com,Polygender,junior,793-26-1283,Cameroon,Asian,15,text,10,hybrid,night,70
+181,Amie Taft,ataft50@wordpress.org,Agender,senior,419-18-7637,China,White,17,email,20,virtual,afternoon,9
+182,Abbe Glazier,aglazier51@whitehouse.gov,Male,junior,575-23-5400,Russia,and Native Hawaiian or Other Pacific Islander,3,slack,12,in person,night,48
+183,Cordy Slinger,cslinger52@seesaa.net,Non-binary,junior,799-27-2822,Poland,American Indian or Alaska Native,10,other,9,in person,evening,5
+184,Yankee Garmons,ygarmons53@last.fm,Genderfluid,senior,880-43-5567,Papua New Guinea,and Native Hawaiian or Other Pacific Islander,6,zoom,7,virtual,morning,47
+185,Tonye Blaxlande,tblaxlande54@tinypic.com,Bigender,junior,166-83-3894,Sweden,Asian,16,zoom,15,hybrid,afternoon,64
+186,Eloisa Howles,ehowles55@goo.ne.jp,Male,sophomore,310-66-7045,Brazil,Asian,14,text,12,hybrid,morning,65
+187,Reggis Robertsson,rrobertsson56@nps.gov,Female,junior,517-43-7821,Portugal,and Native Hawaiian or Other Pacific Islander,16,slack,17,virtual,morning,88
+188,Buddy Meaddowcroft,bmeaddowcroft57@google.es,Female,sophomore,216-84-7147,Thailand,White,6,slack,6,hybrid,afternoon,45
+189,Uta Grimsley,ugrimsley58@cpanel.net,Female,freshman,885-17-3009,Peru,and Native Hawaiian or Other Pacific Islander,5,email,1,in person,evening,72
+190,Vachel Mulholland,vmulholland59@goo.gl,Male,freshman,681-50-4850,Mexico,American Indian or Alaska Native,19,slack,5,virtual,morning,41
+191,Ema Lasham,elasham5a@miibeian.gov.cn,Male,junior,841-05-9085,Czech Republic,Asian,13,text,11,virtual,afternoon,38
+192,Eba Kelling,ekelling5b@cocolog-nifty.com,Female,sophomore,396-25-4971,Brazil,Black or African American,3,slack,19,virtual,afternoon,97
+193,Lammond Shakeshaft,lshakeshaft5c@mit.edu,Male,sophomore,205-64-0390,United States,Asian,3,text,9,hybrid,morning,35
+194,Shannah Mertel,smertel5d@nba.com,Male,senior,170-92-6366,Ukraine,Asian,11,slack,10,virtual,morning,7
+195,Sisely Medeway,smedeway5e@oakley.com,Female,senior,521-05-3085,Canada,and Native Hawaiian or Other Pacific Islander,10,text,11,virtual,night,94
+196,Nissa Dalglish,ndalglish5f@go.com,Female,freshman,894-91-7056,Vietnam,and Native Hawaiian or Other Pacific Islander,2,other,7,in person,evening,47
+197,Odie St. Paul,ost5g@1688.com,Female,senior,243-50-2114,Sweden,White,7,text,16,virtual,afternoon,83
+198,Anderson McMoyer,amcmoyer5h@ihg.com,Male,junior,898-51-0577,Mexico,White,15,other,12,in person,night,19
+199,Lorie Tesyro,ltesyro5i@elegantthemes.com,Female,sophomore,238-37-4126,Portugal,and Native Hawaiian or Other Pacific Islander,9,email,12,in person,afternoon,86
+200,Genvieve Mariault,gmariault5j@google.com.hk,Female,freshman,777-09-5765,France,Asian,3,zoom,10,hybrid,night,37
+201,Melamie Dowty,mdowty5k@prlog.org,Agender,freshman,693-47-6637,Greece,Black or African American,16,slack,5,in person,evening,36
+202,Nada Myhill,nmyhill5l@github.io,Male,sophomore,312-35-7901,Cyprus,White,1,other,16,in person,afternoon,21
+203,Kalinda Oddey,koddey5m@skyrock.com,Female,senior,791-91-3952,Russia,Black or African American,17,email,15,virtual,afternoon,84
+204,Dallis Anscombe,danscombe5n@biblegateway.com,Male,senior,839-64-0912,China,White,13,email,18,in person,night,42
+205,Jonell Gremane,jgremane5o@topsy.com,Male,freshman,400-71-9622,China,American Indian or Alaska Native,7,email,20,hybrid,morning,54
+206,Florencia Huelin,fhuelin5p@alibaba.com,Genderfluid,senior,220-27-4683,Indonesia,and Native Hawaiian or Other Pacific Islander,7,zoom,9,in person,evening,24
+207,Sharron Tomkins,stomkins5q@washingtonpost.com,Male,junior,206-65-6820,France,American Indian or Alaska Native,19,zoom,13,hybrid,afternoon,55
+208,Kendrick Wannop,kwannop5r@creativecommons.org,Female,freshman,841-85-0539,China,Asian,15,text,20,in person,morning,33
+209,Henka Valero,hvalero5s@reverbnation.com,Female,senior,864-95-0156,Indonesia,Asian,4,text,7,in person,night,2
+210,Leeland Benning,lbenning5t@dion.ne.jp,Male,senior,395-53-1447,Cuba,Black or African American,1,other,11,hybrid,night,90
+211,Galen Le Conte,gle5u@bandcamp.com,Female,junior,799-82-4615,Russia,American Indian or Alaska Native,12,zoom,15,in person,evening,42
+212,Trish Bett,tbett5v@booking.com,Female,freshman,112-97-3382,Philippines,and Native Hawaiian or Other Pacific Islander,9,zoom,3,hybrid,morning,35
+213,Claudetta Killough,ckillough5w@salon.com,Female,sophomore,394-08-7766,United States,and Native Hawaiian or Other Pacific Islander,15,slack,1,in person,evening,18
+214,Preston Almond,palmond5x@engadget.com,Male,freshman,507-92-1074,Chile,and Native Hawaiian or Other Pacific Islander,16,other,14,in person,afternoon,24
+215,Alair Saill,asaill5y@adobe.com,Female,junior,798-56-0879,China,Asian,7,other,2,hybrid,evening,27
+216,Lora Oldacre,loldacre5z@cocolog-nifty.com,Female,freshman,702-89-8372,China,and Native Hawaiian or Other Pacific Islander,3,email,12,in person,evening,71
+217,Kittie Gallego,kgallego60@economist.com,Female,senior,438-55-1486,Greece,Black or African American,14,email,8,in person,evening,85
+218,Sharity Diperaus,sdiperaus61@goodreads.com,Female,freshman,371-47-5990,Indonesia,and Native Hawaiian or Other Pacific Islander,3,email,10,hybrid,night,43
+219,Rosalinda Olczyk,rolczyk62@wordpress.org,Female,junior,863-91-3633,French Polynesia,Black or African American,19,slack,20,hybrid,evening,49
+220,Garnette Woltering,gwoltering63@youtu.be,Female,sophomore,627-06-6705,France,and Native Hawaiian or Other Pacific Islander,2,text,9,in person,night,84
+221,Frederico Astridge,fastridge64@altervista.org,Agender,junior,172-73-1774,Indonesia,Black or African American,14,slack,12,virtual,night,31
+222,Merwin Dungay,mdungay65@wikispaces.com,Polygender,junior,682-62-9155,Argentina,American Indian or Alaska Native,11,other,13,hybrid,afternoon,8
+223,Corrine Chevers,cchevers66@soundcloud.com,Female,senior,439-96-8763,Philippines,and Native Hawaiian or Other Pacific Islander,1,text,15,virtual,evening,87
+224,Channa Eacott,ceacott67@storify.com,Female,junior,654-52-1220,United States,and Native Hawaiian or Other Pacific Islander,20,email,18,hybrid,morning,59
+225,Florette Pisco,fpisco68@wikipedia.org,Male,freshman,374-61-1215,Hungary,White,4,zoom,14,in person,night,52
+226,Arabele Leggatt,aleggatt69@jimdo.com,Bigender,junior,546-83-3034,El Salvador,American Indian or Alaska Native,1,email,11,hybrid,afternoon,73
+227,Lodovico Rosenfelder,lrosenfelder6a@cocolog-nifty.com,Female,junior,169-81-6607,Reunion,White,5,text,1,hybrid,evening,53
+228,Rozella Mosley,rmosley6b@un.org,Male,junior,184-49-3958,Indonesia,White,4,text,20,hybrid,afternoon,48
+229,Guillemette Shacklady,gshacklady6c@dagondesign.com,Male,senior,227-18-8415,China,American Indian or Alaska Native,10,slack,8,virtual,evening,32
+230,Constantino Gisborne,cgisborne6d@unc.edu,Female,junior,509-08-5433,Canada,and Native Hawaiian or Other Pacific Islander,13,text,6,hybrid,night,72
+231,Marley Geck,mgeck6e@ebay.com,Female,freshman,492-17-1726,Russia,Black or African American,14,zoom,4,virtual,afternoon,95
+232,Ellery Wozencroft,ewozencroft6f@gravatar.com,Male,senior,406-45-1663,Indonesia,Asian,5,other,9,hybrid,night,8
+233,Peterus Rosoni,prosoni6g@studiopress.com,Agender,freshman,348-70-8670,Argentina,Black or African American,2,slack,1,in person,afternoon,5
+234,Kilian Spilsburie,kspilsburie6h@nih.gov,Male,sophomore,602-57-4673,Brazil,Black or African American,4,text,20,in person,evening,19
+235,Lonnie Rowes,lrowes6i@pinterest.com,Male,freshman,658-82-0298,Indonesia,and Native Hawaiian or Other Pacific Islander,8,zoom,5,virtual,afternoon,10
+236,Dorisa Boat,dboat6j@omniture.com,Female,sophomore,895-32-5657,Sri Lanka,and Native Hawaiian or Other Pacific Islander,16,text,11,virtual,morning,49
+237,Olivia Hambidge,ohambidge6k@bizjournals.com,Female,freshman,545-70-1512,China,Asian,16,email,11,hybrid,evening,46
+238,Carney Mattusevich,cmattusevich6l@i2i.jp,Male,senior,459-90-4129,Thailand,White,20,text,16,in person,morning,81
+239,Goddard Collyear,gcollyear6m@kickstarter.com,Agender,senior,677-97-7257,Portugal,Black or African American,5,text,5,in person,evening,67
+240,Joan Kirkbright,jkirkbright6n@wix.com,Male,freshman,879-88-8464,Dominican Republic,White,13,slack,8,virtual,night,4
+241,Washington Cockcroft,wcockcroft6o@constantcontact.com,Male,junior,592-28-8298,Ukraine,Asian,1,other,14,virtual,afternoon,91
+242,Tyrone Addionizio,taddionizio6p@disqus.com,Female,senior,810-20-8183,Iran,Asian,20,slack,4,virtual,afternoon,38
+243,Alberta McDonnell,amcdonnell6q@mtv.com,Male,freshman,264-29-8418,China,Black or African American,16,zoom,9,virtual,afternoon,85
+244,Domeniga Taylor,dtaylor6r@1688.com,Female,junior,886-87-6349,Philippines,White,20,email,16,in person,morning,85
+245,Christean Muris,cmuris6s@ft.com,Male,junior,498-51-3006,Argentina,Black or African American,19,email,5,virtual,morning,23
+246,Kimberlee Keniwell,kkeniwell6t@webnode.com,Male,senior,242-18-5407,Azerbaijan,Black or African American,7,text,12,hybrid,night,3
+247,Sigmund Kupker,skupker6u@mlb.com,Male,junior,434-29-2511,Indonesia,Asian,8,email,13,hybrid,night,74
+248,Constancy Henriques,chenriques6v@hao123.com,Female,junior,183-72-1312,China,White,18,other,16,in person,night,5
+249,Thomasa Wyne,twyne6w@bravesites.com,Female,junior,558-78-2773,China,White,6,slack,3,in person,afternoon,7
+250,Darn Gosford,dgosford6x@bloglines.com,Male,freshman,747-48-4803,Vietnam,Black or African American,9,zoom,7,virtual,evening,25
+251,Harcourt Cogdon,hcogdon6y@nyu.edu,Male,sophomore,654-58-9830,Azerbaijan,and Native Hawaiian or Other Pacific Islander,4,other,14,virtual,evening,74
+252,Damaris Meconi,dmeconi6z@amazonaws.com,Female,senior,731-39-3454,Finland,Black or African American,10,email,15,virtual,evening,16
+253,Sandy Cordobes,scordobes70@alexa.com,Male,senior,734-90-1242,China,Black or African American,11,zoom,12,in person,evening,54
+254,Jeanelle Thibodeaux,jthibodeaux71@go.com,Male,freshman,700-07-4612,Colombia,American Indian or Alaska Native,17,text,5,in person,morning,50
+255,Celesta Seefus,cseefus72@eepurl.com,Female,freshman,182-66-4714,Czech Republic,and Native Hawaiian or Other Pacific Islander,15,text,5,virtual,night,81
+256,Klemens Vasnetsov,kvasnetsov73@unc.edu,Female,freshman,485-40-3374,France,White,5,email,10,in person,evening,33
+257,Charlton Clewes,cclewes74@eventbrite.com,Female,junior,794-39-8952,Russia,American Indian or Alaska Native,7,email,12,in person,evening,76
+258,Emera Boyford,eboyford75@accuweather.com,Agender,freshman,643-40-6224,Burkina Faso,Black or African American,13,slack,3,virtual,evening,53
+259,Karena Christophle,kchristophle76@zdnet.com,Male,freshman,449-56-4099,Philippines,Asian,19,zoom,5,in person,morning,98
+260,Shoshanna Nussen,snussen77@ucoz.ru,Female,freshman,228-87-4589,Palestinian Territory,White,14,text,20,virtual,morning,41
+261,Mollee Kaman,mkaman78@columbia.edu,Female,freshman,678-43-1872,Indonesia,and Native Hawaiian or Other Pacific Islander,9,email,19,in person,night,84
+262,Leanor Heartfield,lheartfield79@plala.or.jp,Male,senior,665-60-4208,Canada,White,10,other,1,virtual,afternoon,68
+263,Wilone Girardi,wgirardi7a@simplemachines.org,Female,sophomore,767-41-5262,China,and Native Hawaiian or Other Pacific Islander,15,slack,19,in person,afternoon,31
+264,Tobie Dallon,tdallon7b@earthlink.net,Male,junior,891-84-2200,Indonesia,White,14,other,13,in person,evening,70
+265,Joshia Dimic,jdimic7c@wufoo.com,Male,sophomore,671-71-3096,Poland,Asian,8,other,12,in person,morning,88
+266,Ninnette Wasbey,nwasbey7d@zimbio.com,Bigender,freshman,145-54-5337,Lithuania,White,9,email,19,in person,evening,58
+267,Clarice Sphinxe,csphinxe7e@soundcloud.com,Bigender,sophomore,786-86-3380,France,and Native Hawaiian or Other Pacific Islander,20,slack,11,virtual,night,67
+268,Francesco Blaze,fblaze7f@typepad.com,Male,freshman,143-21-9436,China,American Indian or Alaska Native,9,email,9,in person,evening,8
+269,Gerald Beacon,gbeacon7g@answers.com,Female,junior,810-82-8260,Philippines,American Indian or Alaska Native,13,zoom,6,in person,afternoon,50
+270,Amble Durn,adurn7h@fda.gov,Female,senior,173-52-7761,China,American Indian or Alaska Native,6,text,17,hybrid,night,100
+271,Artie Cuesta,acuesta7i@google.it,Female,sophomore,162-05-0344,Mozambique,White,15,other,14,hybrid,morning,16
+272,Yorgos Rushford,yrushford7j@w3.org,Male,sophomore,655-55-3304,Argentina,Black or African American,20,other,16,virtual,afternoon,74
+273,Mandie Minthorpe,mminthorpe7k@google.com.hk,Female,sophomore,887-12-2427,Vietnam,American Indian or Alaska Native,19,email,12,virtual,afternoon,12
+274,Marielle Olliff,molliff7l@networkadvertising.org,Male,junior,740-76-0477,Greece,White,1,email,10,virtual,morning,2
+275,Ernesta Kaminski,ekaminski7m@woothemes.com,Male,senior,815-82-6581,Indonesia,Asian,6,slack,20,virtual,night,14
+276,Delbert Sindell,dsindell7n@oracle.com,Male,sophomore,198-14-7441,Peru,and Native Hawaiian or Other Pacific Islander,16,zoom,2,hybrid,evening,45
+277,Marena Dishmon,mdishmon7o@hp.com,Male,senior,565-24-6021,Russia,American Indian or Alaska Native,14,email,17,hybrid,evening,91
+278,Elston Subhan,esubhan7p@tripod.com,Male,freshman,438-53-5902,Philippines,White,17,email,10,in person,night,77
+279,Margi Doggart,mdoggart7q@nationalgeographic.com,Male,senior,204-47-9402,Philippines,White,14,zoom,11,virtual,morning,36
+280,Lorrayne Bignall,lbignall7r@smugmug.com,Male,senior,549-59-9753,China,White,13,zoom,4,in person,morning,49
+281,Ashley Pryer,apryer7s@seattletimes.com,Male,senior,664-19-1780,Russia,Asian,5,text,6,in person,afternoon,38
+282,Griffith Niland,gniland7t@dmoz.org,Female,senior,394-17-9235,China,Asian,3,other,11,in person,night,5
+283,Andrea Sanchiz,asanchiz7u@reddit.com,Female,junior,886-36-6410,Czech Republic,and Native Hawaiian or Other Pacific Islander,13,zoom,6,hybrid,morning,41
+284,Rosalynd Caveney,rcaveney7v@e-recht24.de,Male,senior,129-71-4395,Serbia,Black or African American,12,other,16,hybrid,afternoon,5
+285,Kingston Biggans,kbiggans7w@flickr.com,Female,junior,602-65-9929,Indonesia,and Native Hawaiian or Other Pacific Islander,9,zoom,10,virtual,morning,24
+286,Addy Godbert,agodbert7x@google.ca,Male,freshman,769-19-6341,Portugal,Asian,3,email,12,hybrid,morning,73
+287,Orelia Punter,opunter7y@umich.edu,Female,sophomore,341-92-1829,Indonesia,and Native Hawaiian or Other Pacific Islander,9,slack,9,virtual,afternoon,17
+288,Nicoline Daviot,ndaviot7z@chron.com,Female,sophomore,487-10-6590,Venezuela,White,3,zoom,14,in person,evening,39
+289,Mackenzie Cowwell,mcowwell80@privacy.gov.au,Male,junior,765-80-1847,Switzerland,American Indian or Alaska Native,3,slack,17,in person,morning,8
+290,Sebastiano Hurley,shurley81@skype.com,Male,senior,195-25-5536,Japan,White,7,other,7,virtual,evening,99
+291,Lyman Chrispin,lchrispin82@toplist.cz,Male,senior,198-86-6637,Latvia,White,8,text,14,in person,afternoon,52
+292,Ashly Meatyard,ameatyard83@google.com.br,Male,freshman,294-86-0552,Chad,White,20,slack,14,hybrid,morning,5
+293,Ilaire Gehrels,igehrels84@fotki.com,Male,senior,670-74-2510,France,Black or African American,7,other,16,in person,morning,44
+294,Court Caron,ccaron85@china.com.cn,Male,freshman,855-43-1945,Indonesia,White,3,email,6,in person,afternoon,91
+295,Rudyard Ffrench,rffrench86@fotki.com,Female,freshman,283-54-4600,Sweden,and Native Hawaiian or Other Pacific Islander,1,other,10,virtual,afternoon,31
+296,Salomi Heakey,sheakey87@edublogs.org,Male,senior,450-54-9363,Tanzania,American Indian or Alaska Native,19,other,14,hybrid,night,15
+297,Ivan Staines,istaines88@a8.net,Male,senior,375-89-3446,Ecuador,White,15,zoom,8,in person,morning,57
+298,Bernete Bent,bbent89@japanpost.jp,Female,sophomore,296-25-1015,Kazakhstan,American Indian or Alaska Native,5,other,3,virtual,afternoon,33
+299,Rozanne Bruyet,rbruyet8a@hp.com,Female,junior,291-99-7414,France,White,12,email,14,virtual,afternoon,14
+300,Amity Effemy,aeffemy8b@hc360.com,Male,freshman,892-70-3066,Japan,Asian,12,other,14,hybrid,morning,16
+301,Gerianne Frizell,gfrizell8c@foxnews.com,Female,junior,437-30-8825,Indonesia,Black or African American,14,other,7,hybrid,night,72
+302,Ernestine Tincombe,etincombe8d@nytimes.com,Male,freshman,700-94-6923,Indonesia,White,12,zoom,5,in person,morning,3
+303,Carly Cayette,ccayette8e@skyrock.com,Male,junior,388-73-6399,Argentina,and Native Hawaiian or Other Pacific Islander,14,zoom,17,virtual,night,72
+304,Stafford Mackleden,smackleden8f@merriam-webster.com,Male,junior,854-73-4228,China,Asian,5,other,14,in person,night,30
+305,Wilek Langthorn,wlangthorn8g@rambler.ru,Male,sophomore,283-09-2718,Russia,American Indian or Alaska Native,10,slack,12,hybrid,afternoon,28
+306,Kalinda Peron,kperon8h@seattletimes.com,Male,junior,270-21-8271,Brazil,American Indian or Alaska Native,12,other,1,virtual,afternoon,92
+307,Ruperta Pashba,rpashba8i@netscape.com,Female,freshman,673-46-1788,Argentina,Asian,16,zoom,13,hybrid,afternoon,78
+308,Garvy Kenrick,gkenrick8j@cpanel.net,Male,freshman,863-98-1577,China,White,12,other,14,in person,evening,31
+309,Alta Wallice,awallice8k@seesaa.net,Male,junior,450-59-5936,Sweden,Black or African American,12,email,10,in person,afternoon,64
+310,Donall Hothersall,dhothersall8l@naver.com,Genderqueer,sophomore,440-03-9340,Kyrgyzstan,Black or African American,2,email,2,in person,afternoon,35
+311,Alana Girdler,agirdler8m@123-reg.co.uk,Female,junior,347-29-9049,Philippines,American Indian or Alaska Native,8,slack,19,hybrid,afternoon,82
+312,Matias Lages,mlages8n@tiny.cc,Female,sophomore,772-97-4179,Austria,Black or African American,7,other,16,hybrid,afternoon,2
+313,Netta Bessett,nbessett8o@dropbox.com,Male,junior,515-25-1324,Uzbekistan,American Indian or Alaska Native,14,other,12,hybrid,morning,52
+314,Web Trimmill,wtrimmill8p@odnoklassniki.ru,Male,senior,575-25-0722,China,Asian,9,zoom,10,in person,night,58
+315,Janetta Bramont,jbramont8q@intel.com,Female,sophomore,768-35-6142,Thailand,Asian,19,other,11,hybrid,morning,5
+316,Tobey A'Barrow,tabarrow8r@nytimes.com,Genderqueer,senior,679-63-9176,Portugal,American Indian or Alaska Native,12,slack,3,virtual,afternoon,12
+317,Quincy Rutley,qrutley8s@1und1.de,Bigender,sophomore,647-07-3192,Finland,Black or African American,9,email,19,in person,night,98
+318,Birch Nolan,bnolan8t@nyu.edu,Female,senior,425-37-3397,Philippines,Black or African American,12,other,19,in person,night,66
+319,Hugues Yewdell,hyewdell8u@nps.gov,Female,senior,190-14-7962,Indonesia,and Native Hawaiian or Other Pacific Islander,3,slack,19,in person,night,95
+320,Cullan Huffadine,chuffadine8v@oakley.com,Male,sophomore,226-94-7994,Mexico,and Native Hawaiian or Other Pacific Islander,2,email,8,hybrid,evening,37
+321,Inessa Tindall,itindall8w@princeton.edu,Male,sophomore,391-45-3026,Ukraine,Asian,12,text,6,virtual,evening,96
+322,Vivienne Midgely,vmidgely8x@dailymail.co.uk,Female,junior,253-83-2969,Brazil,and Native Hawaiian or Other Pacific Islander,11,zoom,4,hybrid,morning,77
+323,Shepherd Hoxey,shoxey8y@usgs.gov,Female,senior,337-93-4819,China,Asian,5,zoom,12,in person,morning,42
+324,Leupold Jantel,ljantel8z@devhub.com,Female,senior,673-50-7261,Croatia,Black or African American,9,email,18,virtual,afternoon,97
+325,Jany Eallis,jeallis90@goo.gl,Female,freshman,179-54-4065,China,Asian,8,zoom,6,virtual,afternoon,78
+326,Claude Pringley,cpringley91@e-recht24.de,Male,senior,755-74-7386,Democratic Republic of the Congo,Black or African American,14,zoom,17,virtual,night,99
+327,Tory Rook,trook92@fotki.com,Male,sophomore,508-03-3165,Malawi,American Indian or Alaska Native,1,other,1,hybrid,evening,46
+328,Antin Jaher,ajaher93@imgur.com,Male,freshman,894-62-8746,Indonesia,White,14,text,6,virtual,evening,63
+329,Eleanora Stirling,estirling94@vinaora.com,Male,senior,374-61-6994,Indonesia,and Native Hawaiian or Other Pacific Islander,2,zoom,12,virtual,morning,100
+330,Sorcha Gerardot,sgerardot95@apple.com,Female,senior,244-91-3073,Mongolia,and Native Hawaiian or Other Pacific Islander,6,text,16,in person,morning,35
+331,Boony Dorian,bdorian96@themeforest.net,Female,sophomore,251-39-6050,Portugal,White,5,zoom,5,virtual,morning,32
+332,Aleda Leech,aleech97@washingtonpost.com,Female,senior,820-04-4040,Poland,American Indian or Alaska Native,3,zoom,18,in person,night,68
+333,Corene Keveren,ckeveren98@shop-pro.jp,Genderfluid,freshman,613-73-5872,Brazil,Asian,6,text,20,in person,morning,43
+334,Bailie Wellen,bwellen99@usgs.gov,Male,sophomore,794-58-8015,Indonesia,Asian,18,other,8,hybrid,morning,3
+335,Hildagarde Greatbank,hgreatbank9a@ed.gov,Female,junior,558-29-2431,Portugal,Black or African American,8,email,17,in person,afternoon,74
+336,Lucas Salerg,lsalerg9b@lulu.com,Genderqueer,sophomore,824-19-1192,Vietnam,and Native Hawaiian or Other Pacific Islander,1,zoom,7,in person,morning,1
+337,Georgetta Twelve,gtwelve9c@merriam-webster.com,Female,sophomore,216-56-7318,Greece,Asian,16,other,5,in person,morning,2
+338,April Downer,adowner9d@multiply.com,Male,junior,382-73-9046,China,American Indian or Alaska Native,4,zoom,18,hybrid,afternoon,88
+339,Berne Bolstridge,bbolstridge9e@purevolume.com,Female,sophomore,736-70-3756,Pakistan,and Native Hawaiian or Other Pacific Islander,20,slack,3,virtual,evening,22
+340,Moore Gearing,mgearing9f@ezinearticles.com,Genderfluid,sophomore,633-88-8724,Serbia,and Native Hawaiian or Other Pacific Islander,6,slack,16,in person,night,41
+341,Saidee Mutter,smutter9g@economist.com,Genderqueer,senior,146-17-0908,Indonesia,American Indian or Alaska Native,13,slack,2,hybrid,evening,85
+342,Boyd Winfrey,bwinfrey9h@ezinearticles.com,Male,sophomore,107-48-7027,China,White,17,zoom,10,hybrid,evening,78
+343,Sarah Jewkes,sjewkes9i@yandex.ru,Female,freshman,206-03-0061,Colombia,and Native Hawaiian or Other Pacific Islander,12,email,13,virtual,morning,94
+344,Evonne Haggard,ehaggard9j@networkadvertising.org,Male,senior,262-53-2476,Indonesia,White,20,zoom,11,in person,evening,20
+345,Corena Cornborough,ccornborough9k@mac.com,Male,junior,200-13-7062,Sweden,White,4,text,17,virtual,afternoon,66
+346,Vic Sarney,vsarney9l@nps.gov,Female,sophomore,449-08-9736,Argentina,Black or African American,7,email,7,in person,morning,84
+347,Korey Letcher,kletcher9m@thetimes.co.uk,Female,junior,466-24-5222,Venezuela,Black or African American,1,slack,19,hybrid,afternoon,18
+348,Cara Eve,ceve9n@loc.gov,Male,freshman,793-18-2352,Burkina Faso,Asian,7,text,11,virtual,night,26
+349,Christabel Pidduck,cpidduck9o@smh.com.au,Female,sophomore,451-06-5071,China,Black or African American,9,other,8,in person,evening,19
+350,Kimball Corey,kcorey9p@posterous.com,Male,junior,447-82-8024,Angola,White,1,zoom,13,in person,morning,5
+351,Noland Rikel,nrikel9q@nih.gov,Male,junior,770-23-3732,Guatemala,American Indian or Alaska Native,19,other,2,in person,morning,25
+352,Ardisj Jimenez,ajimenez9r@biglobe.ne.jp,Male,junior,445-27-2800,Sudan,Asian,6,zoom,18,hybrid,night,89
+353,Karney Kernaghan,kkernaghan9s@google.ca,Female,junior,823-73-3951,Vietnam,White,9,email,16,virtual,evening,60
+354,Pollyanna Gonnard,pgonnard9t@usa.gov,Male,sophomore,140-62-6590,Russia,American Indian or Alaska Native,14,email,6,in person,afternoon,47
+355,Abagail Stock,astock9u@indiegogo.com,Female,junior,880-53-8563,China,Black or African American,3,text,11,hybrid,afternoon,42
+356,Cosimo Cockin,ccockin9v@qq.com,Female,senior,676-66-4023,Venezuela,American Indian or Alaska Native,8,slack,16,hybrid,evening,53
+357,Kippie Bissex,kbissex9w@xinhuanet.com,Male,junior,800-92-6973,China,Asian,6,slack,3,hybrid,evening,70
+358,Courtnay Krahl,ckrahl9x@google.co.jp,Female,sophomore,231-91-6033,China,and Native Hawaiian or Other Pacific Islander,3,slack,15,hybrid,evening,59
+359,Jacquetta Fausch,jfausch9y@census.gov,Male,freshman,111-54-3134,Philippines,Asian,7,text,20,in person,evening,22
+360,Neal Roughsedge,nroughsedge9z@google.ca,Female,junior,795-94-6444,United States,Black or African American,7,zoom,16,virtual,night,30
+361,Arel Suckling,asucklinga0@businesswire.com,Agender,freshman,713-77-6286,Serbia,Black or African American,3,text,4,in person,night,67
+362,Betty Moxon,bmoxona1@nasa.gov,Male,senior,331-53-0151,South Korea,Black or African American,11,other,7,virtual,night,36
+363,Waneta Ralston,wralstona2@quantcast.com,Male,senior,328-86-6070,China,American Indian or Alaska Native,15,zoom,5,in person,morning,4
+364,Em Turmel,eturmela3@ucoz.ru,Female,sophomore,694-21-7786,Indonesia,Black or African American,2,slack,10,in person,morning,65
+365,Micheal Babbage,mbabbagea4@dion.ne.jp,Female,freshman,865-60-1708,China,White,19,other,7,in person,evening,38
+366,Benjamin Pelzer,bpelzera5@sohu.com,Female,junior,853-88-6603,Afghanistan,American Indian or Alaska Native,11,text,12,virtual,evening,99
+367,Marybelle Rippingale,mrippingalea6@constantcontact.com,Non-binary,freshman,201-46-3141,Russia,Asian,18,email,4,in person,morning,41
+368,Kellie Licence,klicencea7@stumbleupon.com,Female,freshman,786-53-2996,Russia,Black or African American,6,text,11,hybrid,morning,46
+369,Christi Fanshaw,cfanshawa8@wiley.com,Female,junior,855-23-3741,China,American Indian or Alaska Native,7,other,15,hybrid,evening,69
+370,Stella Giacomello,sgiacomelloa9@netlog.com,Female,freshman,794-87-1816,Gambia,and Native Hawaiian or Other Pacific Islander,5,email,16,hybrid,night,36
+371,Fayina Piborn,fpibornaa@about.me,Male,freshman,682-73-4227,France,White,9,other,20,in person,morning,31
+372,Livvie Kerfod,lkerfodab@hhs.gov,Female,senior,743-42-1846,Japan,and Native Hawaiian or Other Pacific Islander,19,text,17,hybrid,night,56
+373,Giffer Biaggiotti,gbiaggiottiac@oaic.gov.au,Male,freshman,256-16-1092,Brazil,and Native Hawaiian or Other Pacific Islander,3,slack,8,virtual,night,27
+374,Lauri McIlwreath,lmcilwreathad@paypal.com,Male,junior,858-49-9580,Indonesia,Black or African American,5,slack,16,virtual,evening,45
+375,Siobhan Want,swantae@miitbeian.gov.cn,Male,senior,259-28-1850,Brazil,Black or African American,2,text,14,in person,afternoon,24
+376,Moina Branney,mbranneyaf@ustream.tv,Female,freshman,679-76-3975,Indonesia,American Indian or Alaska Native,12,other,12,hybrid,evening,14
+377,Midge Barzen,mbarzenag@twitter.com,Female,junior,322-80-7220,China,American Indian or Alaska Native,6,other,9,in person,evening,99
+378,Deb Oldrey,doldreyah@surveymonkey.com,Male,senior,613-79-8045,Philippines,and Native Hawaiian or Other Pacific Islander,16,zoom,16,in person,morning,71
+379,Peder Salleir,psalleirai@psu.edu,Male,junior,656-73-3765,Zambia,American Indian or Alaska Native,1,zoom,9,hybrid,evening,65
+380,Wileen Sleet,wsleetaj@japanpost.jp,Female,senior,552-95-2311,France,Asian,1,zoom,18,in person,afternoon,32
+381,Elston Cousins,ecousinsak@webs.com,Genderqueer,junior,830-24-9186,China,American Indian or Alaska Native,3,email,9,hybrid,morning,60
+382,Loren Crookshank,lcrookshankal@yelp.com,Male,sophomore,273-61-9272,Indonesia,White,5,zoom,20,hybrid,afternoon,63
+383,Faith Wilshere,fwilsheream@nih.gov,Female,senior,410-46-5638,Pakistan,Black or African American,10,other,7,virtual,morning,62
+384,Shandy Hodjetts,shodjettsan@drupal.org,Female,sophomore,550-28-2978,Portugal,Black or African American,12,email,9,virtual,evening,58
+385,Leighton Stannering,lstanneringao@cafepress.com,Polygender,sophomore,771-84-7826,China,White,3,other,6,in person,morning,33
+386,Aline O'Hannay,aohannayap@imageshack.us,Male,junior,691-69-7792,Azerbaijan,and Native Hawaiian or Other Pacific Islander,5,slack,12,hybrid,night,12
+387,Lucy Leahy,lleahyaq@exblog.jp,Male,senior,117-07-2342,Philippines,Asian,1,zoom,7,hybrid,morning,79
+388,Delly Treadgall,dtreadgallar@flickr.com,Male,senior,251-29-1575,Indonesia,White,19,text,4,virtual,afternoon,85
+389,Coral Fenners,cfennersas@creativecommons.org,Female,sophomore,513-54-7952,Greece,American Indian or Alaska Native,5,text,1,virtual,afternoon,89
+390,Amandi Adrian,aadrianat@princeton.edu,Male,junior,488-75-5966,Honduras,American Indian or Alaska Native,16,email,6,hybrid,morning,82
+391,Wood Gosnay,wgosnayau@forbes.com,Female,freshman,703-24-8192,Kazakhstan,Asian,10,zoom,18,virtual,night,42
+392,Dionysus Tarbet,dtarbetav@abc.net.au,Male,junior,166-10-5120,China,and Native Hawaiian or Other Pacific Islander,10,other,6,virtual,morning,44
+393,Ringo Wintersgill,rwintersgillaw@newyorker.com,Female,sophomore,439-54-0227,Uzbekistan,Black or African American,8,text,8,hybrid,afternoon,4
+394,Lotta O'Hanley,lohanleyax@vistaprint.com,Male,freshman,826-27-0677,Philippines,White,5,other,16,hybrid,night,28
+395,Tiertza Jowitt,tjowittay@vistaprint.com,Male,sophomore,320-04-3861,Russia,Black or African American,20,slack,18,in person,evening,34
+396,Heida Daniel,hdanielaz@columbia.edu,Female,senior,675-78-7257,Peru,and Native Hawaiian or Other Pacific Islander,4,zoom,9,in person,afternoon,93
+397,Denyse Willacot,dwillacotb0@fema.gov,Male,freshman,856-74-1155,Sweden,American Indian or Alaska Native,9,zoom,1,hybrid,afternoon,2
+398,Michaelina Mahody,mmahodyb1@cmu.edu,Male,senior,646-78-5506,Vietnam,and Native Hawaiian or Other Pacific Islander,12,text,17,virtual,afternoon,95
+399,Andeee Feaster,afeasterb2@weebly.com,Female,junior,588-08-2331,Estonia,American Indian or Alaska Native,16,text,17,hybrid,night,63
+400,Cati McGairl,cmcgairlb3@harvard.edu,Female,freshman,556-47-4800,Finland,White,13,other,10,virtual,evening,23
+401,Emmey Wehnerr,ewehnerrb4@latimes.com,Male,senior,352-73-6813,South Africa,Black or African American,3,email,5,virtual,morning,62
+402,Cass Fidgeon,cfidgeonb5@plala.or.jp,Male,sophomore,678-70-9259,China,American Indian or Alaska Native,5,zoom,12,hybrid,afternoon,78
+403,Godfry Doggerell,gdoggerellb6@addtoany.com,Female,junior,756-81-7321,Indonesia,and Native Hawaiian or Other Pacific Islander,12,email,14,in person,morning,89
+404,Laney Lyal,llyalb7@marketwatch.com,Female,senior,148-73-1456,Indonesia,American Indian or Alaska Native,19,zoom,12,hybrid,night,50
+405,Kelli Hrishchenko,khrishchenkob8@businesswire.com,Female,sophomore,470-15-5418,Sweden,American Indian or Alaska Native,6,slack,14,hybrid,night,40
+406,Lief Gooble,lgoobleb9@a8.net,Male,sophomore,238-63-7227,Peru,American Indian or Alaska Native,1,slack,19,in person,morning,4
+407,Isobel Mongain,imongainba@digg.com,Female,senior,754-19-6892,Brazil,Asian,14,slack,4,virtual,afternoon,44
+408,Dorthy Fawdry,dfawdrybb@lycos.com,Female,sophomore,245-69-9181,Sweden,Asian,19,email,19,virtual,night,61
+409,Friedrich Withull,fwithullbc@clickbank.net,Male,junior,160-06-4432,Canada,White,1,other,8,hybrid,evening,21
+410,Chrissie Cotter,ccotterbd@prweb.com,Male,junior,254-75-8147,Indonesia,and Native Hawaiian or Other Pacific Islander,10,email,17,in person,night,92
+411,Lorelei Maghull,lmaghullbe@sfgate.com,Female,junior,844-92-7265,China,Black or African American,12,text,14,hybrid,evening,60
+412,Joachim Jacobowits,jjacobowitsbf@tmall.com,Female,senior,772-32-9094,China,Black or African American,8,text,9,in person,night,68
+413,Edna Pyrah,epyrahbg@bigcartel.com,Male,freshman,742-31-8261,Brazil,and Native Hawaiian or Other Pacific Islander,8,other,12,virtual,evening,43
+414,Maure Cornier,mcornierbh@washington.edu,Male,sophomore,122-70-6673,Mexico,and Native Hawaiian or Other Pacific Islander,2,text,10,virtual,morning,65
+415,Valene Insley,vinsleybi@dedecms.com,Female,junior,576-03-7071,China,Asian,12,email,14,in person,evening,82
+416,Wandie Nutley,wnutleybj@instagram.com,Male,freshman,456-16-9225,Indonesia,White,12,zoom,17,virtual,morning,68
+417,Nero Tofano,ntofanobk@alexa.com,Female,freshman,817-51-0478,Indonesia,Black or African American,9,email,11,hybrid,afternoon,17
+418,Michal Jaime,mjaimebl@usnews.com,Female,senior,170-23-4091,Madagascar,American Indian or Alaska Native,15,text,9,virtual,evening,19
+419,Fredericka Butterley,fbutterleybm@meetup.com,Female,sophomore,647-10-7607,Indonesia,Black or African American,16,slack,18,in person,afternoon,10
+420,Fulton Husbands,fhusbandsbn@statcounter.com,Female,freshman,291-49-6754,United States,and Native Hawaiian or Other Pacific Islander,7,email,20,in person,night,9
+421,Grete Mylchreest,gmylchreestbo@sina.com.cn,Male,freshman,582-81-4812,China,and Native Hawaiian or Other Pacific Islander,14,zoom,19,virtual,morning,60
+422,Solomon Bartel,sbartelbp@acquirethisname.com,Genderfluid,junior,195-17-6795,China,Asian,19,zoom,12,hybrid,night,32
+423,Dodi Challener,dchallenerbq@dmoz.org,Female,sophomore,103-58-6077,China,Asian,5,email,11,in person,morning,53
+424,Adamo Pownall,apownallbr@dailymotion.com,Polygender,senior,766-44-6760,China,Asian,16,slack,10,hybrid,morning,20
+425,Erek Bragginton,ebraggintonbs@geocities.jp,Female,sophomore,780-14-3954,Indonesia,White,7,other,17,in person,morning,70
+426,Derek Cogdell,dcogdellbt@npr.org,Female,junior,146-18-8316,Brazil,Asian,17,text,3,hybrid,night,78
+427,Garrott Brain,gbrainbu@mapquest.com,Female,sophomore,459-02-9034,Indonesia,Black or African American,4,text,2,in person,morning,64
+428,Keeley Lawles,klawlesbv@cnet.com,Female,senior,204-22-1664,Indonesia,White,12,text,9,in person,afternoon,54
+429,Olia Brokenbrow,obrokenbrowbw@europa.eu,Male,senior,197-45-8672,China,Asian,1,slack,18,hybrid,evening,77
+430,Robinett Emmanuele,remmanuelebx@linkedin.com,Female,freshman,423-06-8127,China,American Indian or Alaska Native,7,slack,4,virtual,evening,25
+431,Buckie Gustus,bgustusby@geocities.jp,Female,freshman,379-17-3789,China,and Native Hawaiian or Other Pacific Islander,8,other,12,hybrid,afternoon,87
+432,Muriel Rizzardi,mrizzardibz@devhub.com,Male,freshman,753-51-5834,Brazil,and Native Hawaiian or Other Pacific Islander,17,zoom,20,virtual,night,74
+433,Gino Feldberg,gfeldbergc0@sourceforge.net,Female,freshman,710-69-9266,Netherlands,White,9,email,3,in person,morning,34
+434,Ted Cawse,tcawsec1@jugem.jp,Male,freshman,369-59-1933,Indonesia,and Native Hawaiian or Other Pacific Islander,4,text,7,hybrid,morning,12
+435,Mile Campelli,mcampellic2@nydailynews.com,Genderqueer,freshman,822-25-5816,China,Asian,18,other,7,hybrid,morning,52
+436,Nadine Peracco,nperaccoc3@indiatimes.com,Female,senior,790-67-5014,Thailand,and Native Hawaiian or Other Pacific Islander,4,text,12,virtual,afternoon,94
+437,Felicity Wyvill,fwyvillc4@netscape.com,Male,freshman,521-79-1180,Poland,and Native Hawaiian or Other Pacific Islander,12,email,20,hybrid,morning,7
+438,Georgianna Blowfelde,gblowfeldec5@dagondesign.com,Genderfluid,sophomore,533-33-6382,United States,Asian,13,other,10,in person,night,39
+439,Hollis Ivanitsa,hivanitsac6@sfgate.com,Female,senior,291-04-1362,Philippines,Black or African American,9,other,7,virtual,morning,3
+440,Derwin Brickwood,dbrickwoodc7@pcworld.com,Male,freshman,802-10-7073,Portugal,Black or African American,19,text,8,hybrid,night,12
+441,Babara Crown,bcrownc8@prlog.org,Male,sophomore,626-82-8442,Portugal,American Indian or Alaska Native,4,slack,14,in person,afternoon,73
+442,Carry Whalebelly,cwhalebellyc9@ycombinator.com,Male,junior,835-52-4832,Poland,American Indian or Alaska Native,5,email,15,hybrid,morning,21
+443,Virgilio Anthona,vanthonaca@oaic.gov.au,Female,junior,323-52-5626,China,Black or African American,5,zoom,11,in person,night,37
+444,Flora Gilhooly,fgilhoolycb@imdb.com,Bigender,junior,583-53-2045,Brazil,Asian,15,slack,8,hybrid,afternoon,88
+445,Marketa Creggan,mcreggancc@google.com.hk,Male,junior,716-51-9789,Lebanon,White,19,zoom,16,in person,morning,21
+446,Joeann Fraine,jfrainecd@yelp.com,Female,freshman,286-29-5628,Canada,White,13,other,4,hybrid,night,84
+447,Ollie Bysshe,obysshece@tinyurl.com,Male,senior,205-62-7677,Indonesia,Asian,18,email,12,virtual,evening,91
+448,Mahmud Clowes,mclowescf@biglobe.ne.jp,Female,junior,464-67-6693,Philippines,White,13,text,6,virtual,morning,84
+449,Lisha Olivas,lolivascg@weebly.com,Male,sophomore,723-18-0133,China,American Indian or Alaska Native,11,slack,14,virtual,evening,75
+450,Cornie Tower,ctowerch@seattletimes.com,Male,sophomore,247-61-5549,Indonesia,and Native Hawaiian or Other Pacific Islander,11,email,8,hybrid,afternoon,73
+451,Ker Vedeneev,kvedeneevci@google.com.hk,Male,freshman,535-99-1676,China,Asian,19,email,14,virtual,evening,89
+452,Hatti Shemming,hshemmingcj@unc.edu,Bigender,sophomore,119-47-4854,Botswana,White,2,slack,13,virtual,evening,98
+453,Pietra Benaine,pbenaineck@parallels.com,Male,junior,577-63-7750,Vietnam,Black or African American,18,email,9,virtual,morning,93
+454,Hildegaard Ayliff,hayliffcl@cloudflare.com,Male,junior,474-54-0494,Indonesia,White,3,other,3,in person,night,65
+455,Naomi Linnell,nlinnellcm@pinterest.com,Male,freshman,304-64-1268,Macedonia,and Native Hawaiian or Other Pacific Islander,16,zoom,16,virtual,evening,59
+456,Bil Blakelock,bblakelockcn@hatena.ne.jp,Male,sophomore,477-30-3174,Honduras,Black or African American,5,email,9,in person,morning,80
+457,Harrison Blackwood,hblackwoodco@princeton.edu,Male,sophomore,696-60-0791,Mongolia,Asian,18,slack,19,virtual,morning,86
+458,Sarene Bruyns,sbruynscp@ihg.com,Male,freshman,569-83-5312,Argentina,Asian,2,text,9,hybrid,evening,7
+459,Chelsey Loughnan,cloughnancq@google.de,Male,freshman,211-28-7332,Portugal,Black or African American,2,other,20,virtual,evening,31
+460,Elberta Baroux,ebarouxcr@webs.com,Female,sophomore,312-56-1075,Portugal,and Native Hawaiian or Other Pacific Islander,7,slack,7,hybrid,night,82
+461,Adda Wattingham,awattinghamcs@google.co.jp,Non-binary,sophomore,576-93-9816,China,Black or African American,5,other,2,hybrid,afternoon,28
+462,Suzi Bewick,sbewickct@soup.io,Non-binary,junior,591-70-4335,Indonesia,White,19,slack,10,in person,evening,42
+463,Archer Santarelli,asantarellicu@dailymail.co.uk,Male,freshman,408-38-2114,Poland,American Indian or Alaska Native,9,slack,8,virtual,night,54
+464,Tommy Tunkin,ttunkincv@cpanel.net,Female,senior,151-84-3703,Guatemala,Black or African American,18,email,4,virtual,evening,23
+465,Vachel Degoix,vdegoixcw@elpais.com,Female,senior,653-41-0386,Indonesia,Asian,11,other,4,in person,evening,60
+466,Benedetta Debow,bdebowcx@weibo.com,Male,freshman,846-68-6503,Nigeria,and Native Hawaiian or Other Pacific Islander,19,text,10,virtual,morning,73
+467,Anitra Duckwith,aduckwithcy@liveinternet.ru,Female,senior,752-71-2274,Czech Republic,Asian,7,slack,8,in person,evening,29
+468,Denys Tethcote,dtethcotecz@canalblog.com,Male,sophomore,674-13-1665,Sweden,American Indian or Alaska Native,19,email,19,virtual,afternoon,48
+469,Stanley Monahan,smonahand0@census.gov,Male,junior,702-15-3435,Poland,Asian,10,text,6,hybrid,afternoon,70
+470,Benjamin Schirach,bschirachd1@timesonline.co.uk,Genderfluid,junior,275-72-6429,Belarus,Asian,10,email,8,hybrid,night,90
+471,Ailis Bingall,abingalld2@newsvine.com,Male,sophomore,327-23-8071,Philippines,and Native Hawaiian or Other Pacific Islander,19,zoom,16,hybrid,morning,36
+472,Welch Hopkins,whopkinsd3@is.gd,Female,senior,599-77-5727,China,Asian,4,zoom,10,hybrid,morning,98
+473,Mitchell Seiller,mseillerd4@google.ru,Female,freshman,528-89-2209,Russia,and Native Hawaiian or Other Pacific Islander,8,text,16,virtual,evening,78
+474,Scot Haslegrave,shaslegraved5@sina.com.cn,Male,junior,403-88-3969,Indonesia,American Indian or Alaska Native,5,text,19,virtual,evening,85
+475,Valeria Mabone,vmaboned6@sitemeter.com,Female,sophomore,384-60-3904,Russia,American Indian or Alaska Native,19,other,4,virtual,night,3
+476,Jervis Deguara,jdeguarad7@cnbc.com,Female,sophomore,187-33-4850,China,White,6,text,17,hybrid,night,19
+477,Ddene Shields,dshieldsd8@i2i.jp,Female,senior,597-15-7766,Russia,American Indian or Alaska Native,4,other,7,in person,night,29
+478,Angeline Ipplett,aipplettd9@bing.com,Male,senior,198-77-9237,China,Asian,5,email,3,virtual,morning,55
+479,Daffie Luxon,dluxonda@ted.com,Male,junior,548-30-4552,Indonesia,White,4,text,10,hybrid,evening,24
+480,Robbert Yashanov,ryashanovdb@sohu.com,Female,sophomore,136-20-0367,Cyprus,Black or African American,19,zoom,5,in person,afternoon,19
+481,Britni Penhaligon,bpenhaligondc@addtoany.com,Female,sophomore,309-14-6211,Russia,and Native Hawaiian or Other Pacific Islander,2,email,19,virtual,afternoon,27
+482,Nady Chant,nchantdd@barnesandnoble.com,Male,senior,172-98-4031,China,Black or African American,18,zoom,17,virtual,night,7
+483,Franciska Fowden,ffowdende@livejournal.com,Male,senior,194-87-6432,Dominican Republic,White,11,email,4,hybrid,morning,84
+484,Alida Elston,aelstondf@clickbank.net,Female,senior,195-24-6909,Indonesia,Black or African American,13,text,3,hybrid,morning,67
+485,Keenan Croxon,kcroxondg@icq.com,Agender,senior,129-49-1792,Poland,White,1,other,16,hybrid,evening,57
+486,Rosita Clarey,rclareydh@japanpost.jp,Male,freshman,256-93-6756,Russia,Black or African American,15,email,19,in person,night,88
+487,Kenon Winchcomb,kwinchcombdi@t.co,Female,sophomore,193-16-5517,Canada,Asian,9,other,16,hybrid,evening,22
+488,Torre Bollard,tbollarddj@blogs.com,Male,junior,421-74-4174,Pakistan,American Indian or Alaska Native,20,other,10,virtual,afternoon,37
+489,Bobbye Scothron,bscothrondk@samsung.com,Female,sophomore,807-71-1485,Indonesia,White,20,text,8,hybrid,evening,69
+490,Susan Gopsell,sgopselldl@addthis.com,Female,sophomore,861-53-6774,Colombia,Asian,6,slack,8,virtual,afternoon,86
+491,Miller Ambrois,mambroisdm@cargocollective.com,Genderfluid,junior,519-03-5785,Poland,Black or African American,13,other,5,hybrid,morning,79
+492,Jo-ann Strangman,jstrangmandn@dell.com,Male,sophomore,153-56-3094,Brazil,American Indian or Alaska Native,12,zoom,14,virtual,night,61
+493,Roze Eickhoff,reickhoffdo@altervista.org,Female,freshman,413-81-8409,Italy,White,19,other,7,hybrid,evening,19
+494,L;urette Riches,lrichesdp@forbes.com,Female,sophomore,491-88-0360,Bangladesh,White,14,email,16,hybrid,afternoon,57
+495,Mag Eastlake,meastlakedq@arstechnica.com,Male,freshman,814-91-3736,France,American Indian or Alaska Native,16,email,9,hybrid,morning,2
+496,Tarrah Kipping,tkippingdr@mlb.com,Female,senior,689-31-9859,Malaysia,Asian,3,email,6,virtual,night,59
+497,Babbie Blenkin,bblenkinds@ca.gov,Male,junior,247-89-9928,Tunisia,Black or African American,20,email,19,in person,morning,21
+498,Abagael Haborn,ahaborndt@ucla.edu,Female,junior,654-37-7614,China,White,11,text,12,in person,afternoon,36
+499,Tarrance Bathurst,tbathurstdu@usda.gov,Female,senior,126-28-7047,China,White,17,text,3,hybrid,afternoon,79
+500,Tades Menichelli,tmenichellidv@bloglines.com,Female,sophomore,336-22-0992,Portugal,Black or African American,11,slack,9,virtual,evening,90

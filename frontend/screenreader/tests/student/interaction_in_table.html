@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        Button Test
+    </title>
+</head>
+<body>
+<table>
+    <caption style="visibility: hidden;">Button table's hidden caption</caption>
+    <tr>
+        <th>
+            <h1>Current count: <span id="count">0</span></h1>
+            <div class="container">
+                <button onclick="document.getElementById('count').innerText--">Decrement</button>
+                <button onclick="document.getElementById('count').innerText++">Increment</button>
+            </div>
+        </th>
+        <th>
+            <form>
+                <label for="fname">Last name:</label><br>
+                <input type="text" id="fname"><br>
+                <label for="lname">Last name:</label><br>
+                <input type="text" id="lname" name="lname"><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </th>
+        <th><a href=https://buttonsgaloreandmore.com/">Button website</a></th>
+    </tr>
+    <tr>
+        <td>
+            <img src="../img/barids.jpg" width="25%" alt="This is an image of barids.">
+        </td>
+        <td>
+            <input type="button" value="Button">
+        </td>
+    </tr>
+    <tfoot></tfoot>
+</table>
+</body>
+<script type="text/javascript" src="../../screenreader.js"></script>
+</html>

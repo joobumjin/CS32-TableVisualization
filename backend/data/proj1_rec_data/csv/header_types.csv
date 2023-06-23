@@ -1,0 +1,19 @@
+Header Name,Header Description
+id,qualitative
+name,QUalitative
+email,  qualitative
+gender,QUALITATIVE
+class_year,qual  itativE
+ssn,qualitative
+nationality,   qual itati ve
+race,qualitative
+years_experience,       quantitative
+communication_style,qualitative
+weekly_avail_hours,QUANTITATIVE
+meeting_style,    qual  itative
+meeting_time,qualitative
+software_engn_confidence,  Quantitative
+strengths,qualitative
+weaknesses,qualitative
+skills,quaLitative
+interests,Qualitative
