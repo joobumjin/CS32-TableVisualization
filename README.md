@@ -1,6 +1,11 @@
 # README -  Project 2 Specifications
 
+## Note
+
+This is a project taken from CSCI0320: Introduction to Software Engineering at Brown University in accordance with the class's collaboration policy.
+
 ## Team Members
+
 | Member | Role Sprint 3       | Role Sprint 4          |
 | ------ | ------------------- | ---------------------- |
 | Bumjin | Backend Integration | Table Sorting          |
