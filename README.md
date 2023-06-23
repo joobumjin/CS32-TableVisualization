@@ -1,11 +1,11 @@
 # README -  Project 2 Specifications
 
 ## Team Members
-| Member (cslogin)  | Role Sprint 3        | Role Sprint 4          |
-|-------------------|----------------------|------------------------|
-| Bumjin (`bjoo2`)  | Backend Integration  | Table Sorting          |
-| Justin (`jrhee8`) | Table Visualization  | Screen / Table Reading |
-| Mason (`mburke15`)| Screen Reader        | Kanban / Selenium      |
+| Member | Role Sprint 3       | Role Sprint 4          |
+| ------ | ------------------- | ---------------------- |
+| Bumjin | Backend Integration | Table Sorting          |
+| Justin | Table Visualization | Screen / Table Reading |
+| Mason  | Screen Reader       | Kanban / Selenium      |
 
 For those that have trouble reading long documentation or want to reference quick use commands, we have included a significantly shorter README here: [CHEATSHEET.md](https://github.com/joobumjin/CS32-TableVisualization/blob/main/CHEATSHEET.md).
 
